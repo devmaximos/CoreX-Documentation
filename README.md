@@ -5,7 +5,7 @@
 ---
 
 ## About
-This repository contains documentation for **PROJECT NAME**.  
+This repository contains documentation for **CoreX**.  
 It explains the system's components, how to use them, and provides examples to help users understand the workflow.
 
 ---
