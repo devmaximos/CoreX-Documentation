@@ -1,6 +1,6 @@
-# CoreX-Documentation
+# CoreX Documentation
 
-![Documentation Badge](https://img.shields.io/badge/Documentation-Complete-brightgreen)
+![Documentation Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 ---
 
