@@ -20,14 +20,4 @@ Permissions:
 
 ```bash
 /giveaway_delete message:<string>
-
 ```
-
----
-
-## Arguments
-
-| Argument | Type | Description | Example |
-|----------|------|-------------|---------|
-| `message` | string | The giveaway message ID or the full message link to delete the giveaway. | `123456789012345678` or `https://discord.com/channels/12345678912345678/12345678912345678/12345678912345678 |
-
