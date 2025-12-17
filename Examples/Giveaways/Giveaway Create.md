@@ -37,7 +37,7 @@ Permissions:
 
 ---
 
-## Command Syntax
+## Example Usage
 
 ```bash
 /giveaway_create duration:2d prize:"Steam Gift Card" winners:3 ping:@everyone channel:#giveaways
