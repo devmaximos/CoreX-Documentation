@@ -34,3 +34,14 @@ Permissions:
 | `winners` | integer | Number of winners to select. | `1`, `3` |
 | `ping` | string (optional) | Optional text to ping participants. Can be `@everyone`, `@here`, or a role mention. | `@everyone` |
 | `channel` | channel (optional) | Target text channel or thread to host the giveaway. If omitted, defaults to the current channel.
+
+---
+
+## Command Syntax
+
+```bash
+/giveaway_create duration:2d prize:"Steam Gift Card" winners:3 ping:@everyone channel:#giveaways
+
+```
+
+---
