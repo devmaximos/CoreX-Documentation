@@ -1,4 +1,4 @@
-# Moderation System: Unlock Command
+# Unlock Command
 
 ---
 
