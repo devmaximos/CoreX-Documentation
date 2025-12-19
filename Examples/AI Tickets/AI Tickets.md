@@ -12,16 +12,16 @@ The system is fully integrated with Discord and managed through an interactive c
 
 ## Key Features
 
-### 🎫 AI-Powered Ticket Assistance
+### AI-Powered Ticket Assistance
 - AI greets users when a ticket is opened
 - Automatically answers common questions
 - Escalates to staff when required
 
-### 🚨 Smart Report Flow
+### Smart Report Flow
 - Report system with **confirm / cancel** step
 - Prevents accidental or false staff alerts
 
-### 🧭 Ticket Controls
+### Ticket Controls
 Available directly inside tickets:
 - **Claim** — assign a ticket to a staff member
 - **Transcript** — export ticket history
