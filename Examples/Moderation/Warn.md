@@ -40,5 +40,5 @@ Permissions:
 
 # Notes
 - **Reason Field:** Providing a reason is highly recommended for clarity during future appeals.
-- **Privacy:** While the warning message may be visible in public channels, the #moderation-logs channel should be restricted to staff only.
+- **Privacy:** While the warning message may be visible in public channels, the logging channel should be restricted to staff only.
 - **Visuals:** Each log entry includes the target, reason, moderator, and a timestamp for accurate tracking.
