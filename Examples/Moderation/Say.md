@@ -1,4 +1,4 @@
-# Utility System: Say Command
+# Say Command
 
 ---
 
@@ -42,4 +42,5 @@ Permissions:
 
 # Notes
 - **Channel Selection:** You can select the target channel from a dropdown list or by typing the channel name.
+
 - **Confirmation:** The "Sent Message" confirmation is only visible to the user who ran the command, keeping the public interaction clean.
