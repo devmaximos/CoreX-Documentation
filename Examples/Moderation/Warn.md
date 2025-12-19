@@ -21,13 +21,11 @@ When a warning is issued, the bot generates a professional embed containing all 
 3. Provide a **reason** for the warning (e.g., "test0").
 4. Press **Enter** to execute.
 
-Once sent, the bot will display a "Sending command..." status followed by a confirmation embed in the current channel.
-
 ---
 
 # What the System Does
 - Displays an immediate confirmation embed (CoreX Documentation) in the channel where the command was used.
-- Automatically mirrors the warning to a private #moderation-logs channel.
+- Automatically mirrors the warning to a private logging channel.
 - Provides a persistent record even if the original command message is deleted.
 - Updates logs in real-time as soon as the command is executed.
 
