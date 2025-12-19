@@ -11,8 +11,9 @@ When a channel is locked, the bot updates the channel permissions and logs the a
 ---
 
 # Command Usage
-
+```bash
 /lock
+```
 
 # How to Lock a Channel
 1. Navigate to the channel you wish to secure.
