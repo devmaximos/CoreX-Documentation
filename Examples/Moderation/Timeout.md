@@ -1,4 +1,4 @@
-# Moderation System: Timeout Command
+# Timeout Command
 
 ---
 
