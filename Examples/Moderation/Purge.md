@@ -1,4 +1,4 @@
-# Moderation System: Purge Command
+# Purge Command
 
 ---
 
