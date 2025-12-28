@@ -28,7 +28,7 @@ When a ban is issued, the bot processes the action instantly and generates a hig
 # What the System Does
 - **Permanent Removal:** Instantly removes the user and adds them to the server's ban list.
 - **Immediate Feedback:** Displays a "Banned" confirmation card in the channel where the command was executed, featuring the target's avatar.
-- **Automated Logging:** Sends a permanent record of the ban to the private `#moderation-logs` channel.
+- **Automated Logging:** Sends a permanent record of the ban to the private logging channel.
 - **Audit Details:** Logs include the target's mention/ID, the reason provided, the moderator who performed the action, and a precise timestamp.
 
 ---
